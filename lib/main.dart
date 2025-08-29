@@ -22,10 +22,6 @@ class MyApp extends StatelessWidget {
         "signin": (context) => SignIn(),
         "signup": (context) => SignUp(),
         "home": (context) => Home(),
-        // "Signuppasswordscreen": (context) => Signuppasswordscreen(),
-        // "ResetPasswordEmailScreen": (context) => ResetPasswordEmailScreen(),
-        // "ResetPasswordNewScreen": (context) => ResetPasswordNewScreen(),
-        // "ResetPasswordOtpScreen": (context) => ResetPasswordOtpScreen(),
       },
     );
   }
